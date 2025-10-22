@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Nikolas 
+-Profissão: Consultor Infraestrutura de Redes e Cibersegurança
+-Cidade:São Paulo
+-O que faz nas horas vaga: Estudo
+-Feedback sobre o curso Qualidade de Software:O melhor curso que eu já fiz, tanto o conteudo, quanto a aula são perfeitos.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma em si, é bem prática porém seria otimo se a EBAC tivesse um App para dispositivos moveis
 
 Obrigado!!!
 
